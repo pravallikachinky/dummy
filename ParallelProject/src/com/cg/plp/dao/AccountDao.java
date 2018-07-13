@@ -10,7 +10,7 @@ public class AccountDao implements IAccountDao {
 	@Override
 	public Collection<Account> getAllEmployee() throws AccountException {
 		// TODO Auto-generated method stub
-		return null;
+		return 0;
 	}
 
 }

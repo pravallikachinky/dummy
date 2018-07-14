@@ -25,6 +25,9 @@ public class Account {
 		this.emailId = emailId;
 		this.doj = doj;
 	}
+	public Account() {
+		// TODO Auto-generated constructor stub
+	}
 	public String getCustName() {
 		return custName;
 	}

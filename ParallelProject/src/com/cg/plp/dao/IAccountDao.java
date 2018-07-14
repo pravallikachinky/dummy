@@ -7,4 +7,6 @@ import com.cg.plp.exception.AccountException;
 
 public interface IAccountDao {
 	Collection<Account> getAllEmployee() throws AccountException;
+	public String createAcc(Account account) throws AccountException;
+	
 }

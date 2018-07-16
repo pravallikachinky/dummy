@@ -17,9 +17,9 @@ public class AccountDB {
 		accDb.put("1111122222" , new Account("1111122222","Swarnalatha","female",
 				5000.00,"swarnalatha@gmail.com",LocalDate.now()));
 		accDb.put("3333344444" , new Account("3333344444","Janardhan","male",
-				5000.00,"janardhan@gmail.com",LocalDate.now()));
+				3000.00,"janardhan@gmail.com",LocalDate.now()));
 		accDb.put("5555566666" , new Account("5555566666","Prathyusha","female",
-				5000.00, "prathyusha@gmail.com",LocalDate.now()));
+				6000.00, "prathyusha@gmail.com",LocalDate.now()));
 	}
 	
 }
